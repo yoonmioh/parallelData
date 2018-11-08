@@ -1,0 +1,44 @@
+Passage: O1
+Su arıtma makinemle ilgili bir sorunum var. Su seviyesinin sürekli fazla olduğunu gösteriyor ve su taşmasından dolayı sızıntı oluyor. Salı sabah bir teknisyen gönderebilir misiniz, lütfen? Bu hafta içinde uygun olduğum tek gün, Salı sabah. Bu randevuyu yazılı olarak da onaylarsanız çok memnun olurum.
+
+Passage: O2
+Lütfen beni şikayetler ile ilgilenen birime bağlar mısınız? Evimin dışındaki ana boru iyi tamir edilmedi. Bu yüzden kilerimi su bastı. Sizin “Su Hizmetleri Destek Biriminiz” bu konuda hiç yardımcı olmuyor. Bütün tamir ekiplerinin önümüzdeki iki hafta süresince dolu olduğunu söylüyorlar. Bu benim kilerimi iki hafta süresince havuz gibi kullanacağım anlamına mı geliyor?
+
+Passage: O3
+”Belediye Yangın Biriminden” arıyorum. Telefonda detaylarını alamadığımız bir yardım talebine ulaşmaya çalışıyoruz. Yerel ağda kayıtlı olduğunu bulduk. 762 584 nolu telefondan bizi aramış. Bu yardım çağrısına ulaşmak için desteğinize ihtiyacımız var çünkü arayan kişi çok çaresiz bir durumdaydı.
+
+Passage: O4
+Sabah erken bir saat için bir taksi rezervasyonu yaptırmak istiyorum. Bay Göksun, sabah 6.15’de Adana Şakirpaşa Havaalanında olmak istiyor. Aslında uçağı 7.50’de ama bagaj ile ilgili bir sorununu uçuştan önce çözmek zorunda. Lütfen bu rezervasyonu öncelikleriniz arasına alın ve taksinin zamanında gelmesine dikkat edin. Kesinlikle 6.15’de havaalanında olmak istiyor.
+
+Passage: O6
+Bay ve Bayan Aslan’a ulaşmak istiyorum. Onlar, Yeni baraj Mahallesi 63 numaradan, Kuzey Adana Güzelyalı mahallesine taşındılar. Lütfen, onların yeni numarasını verebilir misiniz? Yaklaşık 3 ay önce taşındılar. Bildiğim kadarıyla, telefon rehberinde kayıtlı değiller.
+
+Passage: O8
+Lütfen beni ek destek birimine bağlayabilir misiniz? Televizyonum hemen hemen 3 hafta önce alındı. Ne zaman tamir edileceğini öğrenmek istiyorum. Ayın 13’ün de televizyonumu almıştınız ve bir hafta içinde geri getireceğinize söz vermiştiniz. Yoğun olduğunuzu anlıyorum fakat bu da biraz fazla uzun oldu. Lütfen bana kesin bir tarih verebilir misiniz?
+  
+Passage: O9
+Bana çevredeki restoranların bir listesini verebilir misiniz? Özal Bulvarında oturuyorum. Her zamankinden daha farklı birşey yemek istiyorum. Belki bir Karadeniz yemeği. Vejetaryen bir restoran olmamasını tercih ederim.
+ 
+Passage: P0
+Gelecek ay eşimin sabah 9’dan akşam 5’e kadar Paris’ten, Bruges’a, Bruges’dan Frankfurt’a, Frankfurt’tan Roma’ya ve son olarak Roma’dan Hamburg’a çok yoğun toplantıları var. Böyle bir program için uygun bir gece uçağı ve konaklama önerebilir misiniz? Eşim, çok büyük ve bildik olmayan hotellerden hoşlanmaz.
+
+Passage: P1
+Büyük bir toplantı için yeme-içme servisi yapan şirketler arıyoruz. Ancak yiyecekler hemen servis yapılacak şekilde ayarlanmalı. Çünkü yiyecekleri hazırlamak için ayrı özel bir yer yok. Çeşitli sandviçler, köfte, peynir ve meyve olan bir açık büfe düşünüyoruz. Bu tür bildiğiniz bir şirket var mı?
+
+Passage: P2
+Baraj Yolu 5.5 durağa çok acil bir ambulans gönderebilir misiniz? Yaşlı bir adam suda kaydı ve bacağı kırıldı. Şu anda hareket edemiyor. Ancak hastaneler kavşağından geçen yol, altyapı çalışmasından dolayı kapalı. Aradaki yoldan giriş yapabilirsiniz. Biz Balcalı Hastanesine haber verdik, sizin gelişinizi bekliyorlar.
+
+Passage: P3
+Yılbaşı siparişleri ile ilgilenen birimi bağlar mısınız, lütfen? Yeni yıl akşamı için karışık taze meyve, biraz karışık çerez ve içecek bir şeyler sipariş vermek istiyorum. Ancak siparişin mutlaka 30 Aralık akşamı, Cemalpaşa mahallesi, 16 no’lu adrese teslim edilmesi lazım. Kesinlikle bu tarihte teslim edilmiş olacağını garanti eder misiniz? Siparişi gönderenin adının gizli kalmasını istiyorum. Bu bir sürpriz olacak.
+
+Passage: P8
+Dün akşam, kedim dışarıya çıkıp girebilsin diye ön kapıyı açık bıraktım. Hava o kadar güzeldi ki bende biraz hava almak için bahçeye çıktım. Sonra bir tıkırtı duydum ve arkamdan sokak kapısının kapandığını duydum. Kendi sokak kapımı açmak için uğraşırken tutuklandım.
+
+Passage: P9
+Türkiye’de uzun tren yolculuklarında uyumayı hep çok zor bulmuşumdur. Bunun nedenlerinden biri, koltukta kendimi hiçbir zaman rahat hissedemememdir. Diğeri ise, diğer yolcuların yüksek sesle konuşması hatta daha da kötüsü horlamasıdır. Buna ek olarak bir de trenin tekerleklerinin çıkardığı o gıcırtılı ses var. Tam biraz dalar gibi olurum ki bilet kontrolü başlar.
+
+Passage: Q0
+Hafta sonu akşam yemeğine gelemediğim için üzgünüm. Sizi tekrar görmeyi dört gözle bekliyordum. Ancak tam yola çıkmaya hazırlanırken, küçük bir kaza geçirdim. Yanıma içecek bir şeyler almak için kilere inmiştim. Işığı yakmaya gerek yok diye düşündüm. Karanlıkta ayağım takıldı ve ayak bileğim kırıldı.
+
+Passage: Q1
+Evime giden yol üzerinde kestirme bir patika var. O civardakiler bu yolun büyülü olduğunu söylüyorlar. Hava karardıktan sonra bu yoldan geçmeyi kimse sevmez. Bu tür batıl inançları hep saçma bulmuşumdur. Ben bu manzaralı yoldan yürümeyi çok seviyorum.
