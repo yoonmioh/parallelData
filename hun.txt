@@ -1,0 +1,44 @@
+Passage: O1
+Gondom van a vízlágyító berendezéssel. A vízszint túl magas, és a túlfolyó állandóan csöpög. Tudna intézkedni arról, hogy kijöjjön egy szakember kedden reggel? Ez az egyetlen nap a héten, amikor el tudom intézni. Megköszönném, ha írásban is megerősítené, amit megbeszéltünk.
+
+Passage: O2
+Kérem, kapcsolja az ügyfélszolgálatot. Eredménytelenre sikerült a házamon kívül található fő vízvezetéknek a megjavítása, és a víz elárasztotta a pincémet. Az Önök Vízszolgáltató Osztálya rendkívül ellenszenves volt. Úgy tűnik, az összes szerelő csapatuk elfoglalt az elkövetkező két hétben. Addig talán uszodának használjam a pincét?
+
+Passage: O3
+Itt a Városi Tűzoltóság. Egy sürgős hívót próbálunk megtalálni, aki letette a kagylót anélkül, hogy bármilyen személyes adatot megadott volna. Valószínűleg helyi hívás volt. A 762 584-es számunkat tárcsázta. Értékelnénk minden azonnali kísérletet a felkutatására, mert kétségbeesettnek tűnt.
+
+Passage: O4
+Kérem, vegyen fel egy taxirendelést kora reggelre. Tallósi úr, aki az Irányi utcán lakik, a Ferihegy 2-es terminálon szeretne lenni reggel 6 óra15 perckor. A gépe nem indul 7 óra 50 percig, de megoldást kell találnia a poggyásztúlsúlyra. Jegyezze fel, hogy különleges elsőbbséget élvez, és gondoskodjon a pontosságról. Pontosan 5 óra 30 percre várja az autót.
+
+Passage: O6
+A miskolci Lázár házaspárt próbálom elérni. Nemrég költöztek el a Gyöngyösi út 63-ból Miskolc egy másik részébe. Meg tudná adni az új számukat? Úgy három hónapja költözhettek el. Tudomásom szerint nem titkos a számuk.
+
+Passage: O8
+Kérem, kapcsolja a vevőszolgálatot. A tévém már majd három hete nem működik, és szeretném tudni, mikorra javítják meg. Önök 13-án szállították be, és azt ígérték, hogy egy héten belül kész lesz. Megértem, hogy alkatrészproblémáik vannak, de ez már egy kicsit túlzás. Tudna végre mondani egy végleges időpontot?
+
+Passage: O9
+Tudna nekem adni egy listát a közelben lévő éttermekről? A Kisfaludy utcán lakom a hetedik kerületben. Valamilyen, a szokásosnál egy kicsit egzotikusabb hely érdekelne. Esetleg egy polinéziai. Jobban szeretném, ha nem lenne vegetáriánus.
+
+Passage: P0
+A feleségemnek komplikált repülő menetrendje van a jövő hónapban. Tudna nekem tanácsot adni a leggazdaságosabb megoldást illetően? Több találkozója van reggel kilenctől délután ötig Párizsban, Brüsszelben, Frankfurtban, Rómában és Hamburgban, egymást követő napokon. Tudna javasolni megfelelő esti járatokat és alkalmas szállást? Nem szereti a nagy, névtelen szállodákat.
+
+Passage: P1
+Fogadásszervezőt keresünk egy nagyszabású találkozóra. Oly módon kellene az ételt a helyszínre szállítani, hogy azonnal fogyasztható legyen. Nincs lehetőség arra, hogy külön teremben legyen feltálalva. Egy szendvicsekből, húsokból, sajtokból és gyümölcsből álló vegyes tálra gondolnánk. Van speciális egységes díjszabásuk egyetemi intézmények számára?
+
+Passage: P2
+Küldjenek egy mentőt a Haris közbe, amilyen gyorsan csak lehet. Egy idős férfi elcsúszott a jégen, és eltörte a lábát, és nem lehet megmozdítani. A közbe csak a Váci utcán keresztül lehet behajtani. A Petőfi Sándor utca felújítás miatt le van zárva. Már értesítették a Rókus kórházat, aki várja a beteg érkezését.
+
+Passage: P3
+A karácsonyi rendelés-felvételi szolgálatot kérem. 10 doboz karácsonyi szaloncukrot, 5 doboz vegyes süteményt és 3 nagy karácsonyi tortát szeretnék rendelni. A szállítási cím Dr. Méhes Ottó, Kecskeméti utca 31. Tudják biztosítani a szállítást december 23-ára? Megkérném Önöket, hogy ne árulják el, ki adta le a rendelést. 
+
+Passage: P8
+Tegnap este kinyitottam a bejárati ajtót, hogy kiengedjem a macskát. Olyan szép este volt, hogy lesétáltam a kertbe egy kis friss levegőt szívni. Aztán hallottam egy kattanást, ahogy az ajtó becsukódott mögöttem. Rájöttem, hogy kizártam magam. Ráadásul még le is tartóztattak, amikor megpróbáltam felfeszíteni az ajtót.
+
+Passage: P9
+Mindig is nehézkesnek találtam az alvást a hosszú vonatutak alatt. Először is, soha nem tudok kényelmesen elhelyezkedni az ülésen. Aztán a többi utas általában nagyon hangosan beszélget vagy, ami még rosszabb, horkol. Ezen kívül a kerekek egyfolytában kattognak a síneken. Ha véletlenül mégis sikerül elszundítanom, akkor meg a kalauz jön és felébreszt.
+
+Passage: Q0
+Elnézést, hogy nem jöttem a hétvégi vacsorára. Pedig tényleg vártam már, hogy újra találkozzunk. Sajnos történt egy apró baleset, épp amikor indulni készülődtem. Akkor történt, amikor lementem a pincébe egy üveg borért. Lusta voltam felkapcsolni a villanyt, megbotlottam a sötétben egy kilazult lépcsőfokban, és eltörtem a bokám.
+
+Passage: Q1
+Egy kis ösvény vezet a dombon keresztül a házamig. A helybéliek azt mondják, hogy a dombot kísértetek lakják. Senki nem szeret keresztülmenni azokon a mezőkön sötétedés után. Természetesen nem hiszek semmi ilyen babonás szamárságban. Csak szeretem a birtokon keresztül vezető festői szépségű utat.
