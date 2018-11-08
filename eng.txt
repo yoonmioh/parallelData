@@ -1,0 +1,44 @@
+Passage: O1
+I have a problem with my water softener. The water-level is too high and the overflow keeps dripping. Could you arrange to send an engineer on Tuesday morning please? It's the only day I can manage this week. I'd be grateful if you could confirm the arrangement in writing.
+
+Passage: O2
+Please put me through to the complaints department. The repair to the water main outside my house was unsuccessful, and my cellar's flooded. Your Water Services Department was singularly unsympathetic. All their repair teams are apparently booked out for the next two weeks. Am I supposed to use the cellar as a swimming pool till then?
+
+Passage: O3
+Municipal Fire Service speaking. We're trying to locate an emergency caller who rang off without giving any personal details. He appeared to be on the local network. He connected on our line number 762 584. We'd appreciate immediate attempts to trace him because he sounded desperate.
+
+Passage: O4
+Please take a request for an early-morning taxi. Mr Spencer of Chestnut Drive wishes to be at Heathrow terminal 4 by 6.15 a.m. His flight's not leaving till 7.50 but he has to arrange for excess baggage. Mark it as top priority and ensure punctuality. He expects the car at 5.30 sharp.
+
+Passage: O6
+I'm trying to contact Mr and Mrs W. George of Swindon. They've moved from 63 Spruce Close to another part of Swindon. Can you give me their new number please? They moved approximately 3 months ago. As far as I know they're not ex-directory.
+
+Passage: O8
+Please connect me to the service department. My television has been out of action for almost three weeks now, and I need to know when it will be repaired. You collected it on the 13th and promised to return within a week. I realise you're having supply problems, but this is rather excessive. Can you give me a firm date now?
+
+Passage: O9
+Can you give me a list of the restaurants in the neighbourhood? I live in Clancy Street, NW1. I'm interested in something a little more exotic than usual. Perhaps a Polynesian place, for example. I'd prefer it not to be vegetarian.
+
+Passage: P0
+My wife has a complicated flight schedule next month. Would you please advise me on the most economical arrangements. She has a series of meetings, 9am to 5pm, in Paris, Bruges, Frankfurt, Rome, and Hamburg on consecutive days. Can you suggest convenient evening flights and suitable accomodation? She doesn't like large, anonymous hotels.
+
+Passage: P1
+We are enquiring into possible catering arrangements for a large meeting. We would need to have the food delivered to the premises in a manner that would allow immediate consumption. There are no facilities for setting out the food in a separate room. We were thinking of a selection of sandwiches, meats, cheeses, and fruit. Do you have special corporate rates for academic institutions?
+
+Passage: P2
+Send an ambulance to sixteen Chadwick Close as soon as possible. An old man has slipped on the ice and broken his leg, and can't be moved. Access to the Close is via Church Street only. The Park Avenue approach has been closed for road repairs. Chester Grange Hospital has been informed, and awaits arrival.
+
+Passage: P3
+Christmas order department please. I wish to place an order for ten boxes of Christmas crackers, five boxes of mixed biscuits, and three large Christmas cakes. The address for delivery is Dr Barnado's Home, 16 Treasure Island Road. Can you guarantee delivery by 23rd December? I should be grateful if you would not disclose who placed the order.
+
+Passage: P8
+Last night I opened the front door to let the cat out. It was such a beautiful evening that I wandered down the garden for a breath of fresh air. Then I heard a click as the door closed behind me. I realised I'd locked myself out. To cap it all, I was arrested while I was trying to force the door open!
+
+Passage: P9
+I've always found it difficult to sleep on long train journeys in Britain. For one thing, I can never make myself comfortable in the seat. Then the other passengers usually talk so loudly, or worse still they snore. In addition, there's the constant clickety-click of the wheels on the track. If I do manage to doze off the ticket inspector comes along and wakes me.
+
+Passage: Q0
+Sorry I didn't come to dinner at the weekend. I was really looking forward to seeing you again. Unfortunately I had a small accident just as I was getting ready to leave. It was when I went down to fetch a bottle of wine from the cellar. I didn't bother to switch the light on, tripped on a loose step in the dark, and broke my ankle.
+
+Passage: Q1
+There's a short cut over that hill to my house. Some local people say the hill is haunted. No-one likes to pass through those fields after dark. Of course, I don't believe in any of that superstitious nonsense. I just like the picturesque route through the estate.
