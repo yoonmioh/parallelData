@@ -1,0 +1,44 @@
+Passage: O1
+Il mio depuratore dell'acqua non funziona. Il livello dell'acqua e' troppo alto e l'acqua comincia a traboccare. Puo' mandarmi un idraulico martedi' mattina per favore? E' l'unico giorno della settimana possibile per me. Puo' mandarmi una risposta scritta? Grazie.
+
+Passage: O2
+Pronto, mi passi l'ufficio reclami per favore. I lavori di riparazione delle condutture dell'acqua nella mia strada hanno provocato l'allagamento della cantina. Pare che tutte le squadre di soccorso idraulico siano occupate per le prossime due settimane. Pensate che nel frattempo possa usare la cantina come piscina?
+
+Passage: O3
+E' il servizio municipale antincendio. Stiamo cercando di localizzare una chiamata di emergenza interrotta prima di avere l'indirizzo. Il nostro telefono che ha ricevuto la chiamata e' il cinque-otto-zero-zero, potreste riuscire a rintracciarne l'autore? Sembrava piuttosto sconvolto.
+
+Passage: O4
+Vorrei prenotare un taxi per domani mattina presto per il dottor Rossi all'Hotel Sheraton. Deve essere all'aeroporto per le sei e trenta. Puo' arrivare per le sei? E' richiesta la massima puntualita'. Puo' lasciarmi la sua sigla per favore?
+
+Passage: O6
+Sto cercando di parlare con i signori Fratini di Bologna che si sono trasferiti da Viale Mazzini 53 a un'altra zona di Bologna. Potrebbe darmi il nuovo numero? Si sono trasferiti circa 3 mesi fa. Che io sappia non sono fuori elenco.
+
+Passage: O8
+Pronto, e' l'elettricista? Avete il mio televisore da almeno tre settimane e vorrei sapere quando lo riparerete. Ve l'ho portato il 13 e avevate promesso di ridarmelo dopo una settimana. Immagino che abbiate avuto dei problemi, ma potete dirmi ora una data sicura per la consegna?
+
+Passage: O9
+Puo' darmi una lista dei ristoranti nei dintorni? Preferirei qualcosa di piccolo e esotico. Forse un locale indiano, per esempio. Preferirei che non fosse esclusivamente vegetariano.
+
+Passage: P0
+Buongiorno, sono la segretaria della dottoressa Bianchi. Devo prenotare un viaggio con diverse tappe per il mese prossimo. Ha una serie di incontri dalle 9 alle 5, a Parigi, Ginevra, Francoforte e Roma, un giorno dopo l'altro. Potreste indicarmi i voli serali piu' convenienti? La dottoressa preferisce evitare gli alberghi troppo grandi e anonimi.
+
+Passage: P1
+Stiamo cercando una ditta di organizzazione convegni, per un grosso congresso. Abbiamo bisogno che il pranzo sia servito sul posto per evitare una interruzione dei lavori troppo lunga. Pensavamo a qualcosa tipo tramezzini e macedonie di frutta. Voi avete tariffe speciali per istituzioni accademiche?
+
+Passage: P2
+Mandate un'ambulanza al sedici di Via Veneto il piu' presto possibile. Un signore anziano e' scivolato su una buccia di banana e si e' rotto una gamba, e non si puo' muovere. Passate dal Muro Torto perche' Piazza Barberini e' bloccata per lavori in corso. L'ospedale San Giacomo e' gia' stato avvertito e aspettano il suo arrivo.
+
+Passage: P3
+E' la pasticceria Colombo? Vorrei ordinare dieci panettoni, cinque etti di pasticcini misti e cinquanta babbo natale di cioccolata. L'indirizzo dove consegnare e': dottor Mario Rossi, Largo Argentina 29. Mi assicura che consegnerete il 23 dicembre? Vi sarei grato se non rivelaste il mio nome.
+
+Passage: P8
+Ieri sera ho aperto la porta per far uscire il gatto. Era una serata bellissima e mi veniva voglia di starmene sdraiato fuori al fresco. All'improvviso ho sentito un clic dietro di me e ho realizzato che la porta si era chiusa lasciandomi fuori. Per concludere, mi hanno arrestato mentre cercavo di forzare la porta!
+
+Passage: P9
+Ho sempre trovato difficile dormire in treno. Prima di tutto non riesco a dormire seduta. Poi gli altri passeggeri parlano forte o peggio ancora russano. Inoltre c'e' un costante ticchettio di ruote nel vagone. Quando poi sto per assopirmi arriva il controllore a chiedermi il biglietto.
+
+Passage: Q0
+Scusatemi per non essere venuto alla vostra cena questo fine settimana. Ma sfortunatamente ho avuto un piccolo incidente quando stavo per uscire. Proprio mentre cercavo di prendere una bottiglia di vino dalla cantina. Non ho pensato di accendere la luce e ho inciampato in un gradino rompendomi una caviglia.
+
+Passage: Q1
+C'e' una scorciatoia in collina per arrivare alla mia casa. Alcune persone del luogo dicono che la collina e' abitata dai fantasmi. Nessuno passa di la' dopo il tramonto. Naturalmente io non credo a queste stupide superstizioni. Mi piace molto la strada pittoresca che attraversa la mia tenuta.
