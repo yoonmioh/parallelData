@@ -1,0 +1,44 @@
+Passage: O1
+Minulla on ongelmia vedenpehmentimeni kanssa. Veden taso on liian korkealla, ja ylivuotoputki vuotaa. Voisitteko lähettää jonkun katsomaan sitä tiistaiaamuna? Se on ainoa sopiva päivä minulle tällä viikolla. Olisin kiitollinen kirjallisesta vahvistuksesta.
+
+Passage: O2
+Voisitteko yhdistää minut valitusosastollenne. Päävesijohdon korjaus taloni edessä epäonnistui, ja minun kellarini tulvii. Teidän vesihuolto-osastonne oli erittäin tympeä. Ilmeisesti kaikki heidän korjaajansa ovat varattuja seuraavat kaksi viikkoa. Pitääkö minun käyttää kellariani uima-altaana siihen asti?
+
+Passage: O3
+Kunnan palolaitos puhelimessa. Me yritämme paikallistaa hätäpuhelun tehnyttä henkilöä, joka katkaisi puhelun antamatta yhteystietojaan. Hän soitti paikallispuhelun. Hän soitti numeroomme 762 584 (seitsemän-kuusi-kaksi viisi-kahdeksan-neljä). Arvostaisimme kovasti välitöntä jäljitysyritystä, koska hän kuulosti epätoivoiselta.
+
+Passage: O4
+Tekisin varauksen aikaiselle taksille. Herra Aalto Kuukadulta haluaisi ehtiä kentälle terminaali 4:ään (neljään) kello 6:15 (kuusi - viisitoista). Hänen lentonsa lähtee vasta 7:50 (seitsemän - viisikymmentä), mutta hänen pitää ehtiä hoitaa lisämatkatavaroidensa järjestely. Varaus on erittäin tärkeä, ja täsmällisyys on taattava. Hän tahtoo auton paikalle tasan kello 5:30 (viisi - kolmekymmentä).
+
+Passage: O6
+Yritän saada yhteyttä vantaalaisiin herra ja rouva Laaksoon. He muuttivat Piitie 63:sta (kuusikymmentäkolmesta) toiseen osaan Vantaata. Voitteko antaa minulle heidän numeronsa, kiitos? He muuttivat noin 3 (kolme) kuukautta sitten. Tietääkseni heidän numeronsa ei ole salainen.
+
+Passage: O8
+Voisitteko yhdistää minut palveluosastolle? Televisioni on ollut huollossa nyt melkein kolme viikkoa, ja haluan tietää, milloin se saadaan korjattua. Te haitte sen 13. (kolmastoista) päivä ja lupasitte palauttaa sen viikon sisällä. Ymmärrän, että teillä on toimitusongelmia, mutta tämä on liikaa. Voitteko antaa minulle nyt tarkan päivämäärän?
+
+Passage: O9
+Voitteko antaa minulle listan lähialueen ravintoloista? Asun Pajutiellä, Oulussa. Minua kiinnostaisi jokin hieman tavallista eksoottisempi. Esimerkiksi joku vietnamilainen ravintola. Mieluusti ei kasvisruokapaikka.
+
+Passage: P0
+Minun vaimollani on hankala lentoaikataulu ensi kuussa. Voisitteko neuvoa meille halvinta järjestelyä? Hänellä on kokouksia yhdeksästä viiteen Lontoossa, Bruggessa, Oslossa, Roomassa ja Kiovassa peräkkäisinä päivinä. Voitteko ehdottaa mukavia iltalentoja ja sopivia majoituksia? Hän ei pidä suurista, nimettömistä hotelleista.
+
+Passage: P1
+Kyselisimme sopivia ateriapalveluja isolle kokoukselle. Tarvitsisimme ruuan toimitettuna toimitiloihimme siten, että ateria voitaisiin nauttia heti. Meillä ei ole erillisiä ruuanlaittotiloja. Ajattelimme lajitelmia leipiä, lihaa, juustoja ja hedelmiä. Onko teillä erityisiä yrityshintoja akateemisille laitoksille?
+
+Passage: P2
+Lähettäkää ambulanssi Luhtatie kuuteentoista heti kun mahdollista. Vanha mies on liukastunut jäällä ja murtanut jalkansa, eikä häntä voida liikuttaa. Yhteys tielle on vain Puutien kautta. Metsäkadun yhteys on poikki tietöiden takia. Meilahden sairaalaa on informoitu, ja he odottavat kuljetuksen saapumista.
+
+Passage: P3
+Joulutoimitusten osasto, kiitos. Haluaisin tilata kymmenen laatikkoa joulupipareita, viisi laatikkoa suklaakonvehteja ja kolme suurta hedelmäkuivakakkua. Toimitusosoite on Herra Viitasen koti, Kanervakatu 16 (kuusitoista). Voitteko taata toimituksen 23. (kahdeskymmeneskolmas) joulukuuta mennessä? Toivoisin, että ette paljastaisi tilaajan nimeä.
+
+Passage: P8
+Avasin viime yönä etuoven päästääkseni kissan ulos. Koska oli niin hieno ilta, kävelin puutarhaan haukatakseni vähän raitista ilmaa. Sitten kuulin naksahduksen, kun ovi sulkeutui takanani. Tajusin lukinneeni itseni ulos. Kaiken lisäksi minut pidätettiin, kun yritin murtaa oven auki!
+
+Passage: P9
+Minulla on aina ollut vaikeuksia nukkua pitkillä junamatkoilla Suomessa. Ensinnäkin, en löydä sopivaa asentoa penkissä. Muut matkustajat myös usein puhuvat kovalla äänella tai, vielä pahempaa, kuorsaavat. Lisäksi kiskoista kuuluu jatkuva kolina. Ja jos onnistunkin nukahtamaan, niin lipuntarkastaja tulee herättämään minut.
+
+Passage: Q0
+Anteeksi että en päässyt illalliselle viikonloppuna. Odotin kovasti näkeväni sinut taas, mutta valitettavasti minulle kävi pieni onnettomuus, kun olin lähtemässä liikkeelle. Se tapahtui kun menin hakemaan viinipulloa kellarista. En vaivautunut laittamaan valoja päälle ja kompastuin irtonaiseen askelmaan pimeässä ja mursin nilkkani.
+
+Passage: Q1
+Tuon mäen yli on oikotie kotiini. Joidenkin paikallisten mukaan mäellä kummittelee. Kukaan ei halua mennä noiden peltojen läpi pimeällä. Minä en tietenkään usko mitään tuollaista taikauskoista hölynpölyä. Se on vain viehättävä reitti maatilan läpi.
