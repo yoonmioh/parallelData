@@ -1,0 +1,44 @@
+Passage: O1 
+Tengo un problema con mi descalcificador. El nivel de agua es demasiado alto y el rebosadero gotea constantemente. ¿Por favor, podría enviarme un técnico el martes por la tarde? Es el único día que me va bien esta semana. ¿Me podrían llamar por teléfono antes de venir?
+
+Passage: O2 
+Por favor, póngame con el departamento de reclamaciones. Con la reparación de la cañería exterior de mi casa me han hecho una chapuza y se ha inundado el sótano. Su Departamento de Servicios al Cliente no me ha hecho ningún caso. Me han dicho que todos los fontaneros están ocupados durante las dos próximas semanas. ¿Se supone que hasta que vengan tengo que utilizar el sótano como piscina?
+
+Passage: O3
+Servicio Municipal de Bomberos al habla. Estamos tratando de localizar una llamada urgente. Colgaron sin dar ningún detalle personal. Al parecer nos llamaron desde esta ciudad, al número 762 584. Agradeceríamos cualquier cosa que nos ayudara a identificarle puesto que parecía desesperado.
+
+Passage: O4
+Por favor, quisiera pedir un taxi para mañana a primera hora. El señor Rodríguez, que vive en la de Avenida del General Martínez Campos, quiere estar en la terminal internacional de Barajas alrededor de las seis y cuarto de la mañana. Su vuelo no sale hasta las ocho menos diez, pero tiene que facturar mucho equipaje. Por favor, que no se les olvide, y sobretodo sean puntuales. El señor Rodríguez estará esperando el taxi a las cinco y media.
+
+Passage: O6
+Por favor, necesito localizar a los señores Ramírez de Estepona. Hace tres meses vivían en el Paseo de la Victoria, número 63; ahora viven en otra calle de la misma ciudad. ¿Me podría dar su nuevo número de teléfono? En la guía todavía aparecen con el número antiguo.
+
+Passage: O8 
+¿Me podría poner con el departamento de reparaciones? Mi televisor se estropeó hace tres semanas. Ustedes me lo vinieron a recoger el día 13 y me prometieron que estaría arreglado al cabo de una semana. Comprendo que hayan podido tener problemas para conseguir las piezas de recambio, pero me parece que el retraso es excesivo. ¿Me pueden dar una fecha concreta de una vez por todas?
+
+Passage: O9
+¿Podría darme una lista de los restaurantes que hay en el barrio de Gracia? Me gustaría encontrar alguno fuera de lo corriente, algo exótico. Tal vez un restaurante japonés, por ejemplo. Lo que no quisiera es que fuera un vegetariano. 
+
+Passage: P0
+Soy la secretaria del Sr. Martínez. El mes próximo tienen que ir a cinco ciudades distintas. ¿Podrían ayudarme a organizar el viaje? Tiene una serie de reuniones, entre 9 de la mañana y 5 de la tarde, en París, Brujas, Ginebra, Roma y Hamburgo, en días consecutivos. ¿Qué vuelos podría coger por la tarde? ¿Y qué alojamiento sería mejor? Al Sr.Martínez no le gustan las grandes cadenas de hoteles. Preferiría un hotel con ambiente familiar.
+
+Passage: P1
+Necesitamos información sobre el servicio de restauración para un congreso con muchos participantes. Querríamos que nos trajeran la comida ya preparada para poder comer en la misma sala de reuniones. No disponemos de un espacio aparte para servirla. Habíamos pensado en un surtido de bocadillos, embutidos, quesos y frutas. ¿Tienen precios especiales para grupos o para instituciones académicas?
+
+Passage: P2
+Envíen una ambulancia al número dieciséis del Pasaje de la Concepción lo más rápido que puedan. Un anciano ha resbalado, se ha roto la pierna y no se puede mover. Al Pasaje sólo se puede llegar por la calle de la Iglesia. La entrada por la Avenida del Parque está cerrada por obras. Ya hemos avisado al Hospital General y esperan al herido.
+
+Passage: P3
+Por favor, quisiera encargar un lote de Navidad. Quiero una cesta con diez tabletas de turrones variados, cinco cajas pequeñas de polvorones y tres de mazapanes. Tienen que enviarlo a la casa del doctor Ruiz, en la calle de Alcalá, número 16. ¿Lo podrían entregar el 23 de diciembre sin falta? Pero no digan quién hizo el pedido, es una sorpresa.
+
+Passage: P8
+Anoche, abrí la puerta del jardín para sacar al gato. Hacía una noche tan buena que pensé en dar un paseo y respirar el aire fresco. De repente, se me cerró la puerta. Me quedé en la calle, sin llaves. Para rematarlo, me arrestaron cuando trataba de forzar la puerta para entrar.
+
+Passage: P9
+Siempre me ha costado dormir en los trenes de largo recorrido. Primero, que no consigo sentirme cómodo en el asiento. Luego, que los demás pasajeros suelen hablar muy alto o, lo que es aún peor, roncan. Además, está el constante traqueteo de las ruedas sobre el raíl. Y si consigo quedarme dormido, pasa el revisor y me despierta para pedir el billete.
+
+Passage: Q0
+Lo siento, pero no voy a poder cenar con vosotros esta noche. ¡Tenía tantas ganas de volver a veros! Por desgracia, he tenido un pequeño accidente cuando me estaba preparando para salir. Bajé a la bodega a buscar una botella de vino. Con las prisas, no encendí la luz. Tropecé en la oscuridad con un escalón que tenía una baldosa suelta y me he roto el tobillo.
+
+Passage: Q1
+A mi casa se puede ir por un atajo cruzando el bosque. Los vecinos dicen que el bosque está embrujado. Nadie quiere pasar por allí cuando oscurece. Yo, por supuesto, no soy supersticioso. A mí me encanta ir por ese camino tan pintoresco.
