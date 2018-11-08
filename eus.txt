@@ -1,0 +1,44 @@
+Passage: O1
+Arazo bat dut nire ur bigungailuarekin. Ur gehiegi dauka eta isurbidea tantaka ari da etengabe. Arren, bidaliko zenidakete teknikariren bat astearte goizerako? Aste honetan libre daukadan egun bakarra da. Hitzordua idatziz baieztatzea eskertuko nizueke.
+
+Passage: O2
+Kexen sailarekin hitz egin nahi nuke, mesedez. Etxe kanpoko hodi nagusia ez didate konpondu, eta sotoa urez bete zait. Ur Zerbitzuko Departamendukoek axolagabe jokatu dute. Iturgin guztiak hartuta egongo omen dira bi astez. Ordura arte sotoa igerilekutzat erabili behar ote dut?
+
+Passage: O3
+Udal Suhiltzaileen Zerbitzua hizketan. Larrialdi dei baten egileren bila gabiltza, datu pertsonalik eman gabe eskegi baitu. Bertoko telefono batetik izan da, antza. 762 584 zenbakira deitu digu. Hura aurkitzeko zeinahi aztarna eskertuko genuke, larri zela ematen zuen eta.
+
+Passage: O4
+Taxi bat eskatu nahi nuke bihar goizean goizerako, mesedez. Agirrezabala jaunak goizeko 6:15etan egon nahi luke Loiuko aireportuan, Garibai Kaletik abiatuta. Hegaldia 7:50ean da, baina lehendabizi ekipajea fakturatu behar du. Ez ahaztu, beraz, eta zaindu puntualtasuna. 5:30etarako zain izango duzue.
+
+Passage: O6
+Arren, Tolosako Perurena eta Azpiazu jaun-andreekin harremanetan jartzen saiatzen ari naiz. Amarotz 21etik Tolosako beste alderdi batera joan dira. Haien telefono zenbaki berria ematerik baduzu? Duela 3 hilabete-edo aldatu ziren. Dakidanez, badute telefonoa.
+
+Passage: O8
+Matxura sailekoekin hitz egin nahi dut, mesedez. Dagoeneko hiru aste dira nire telebista hondatu zela, eta jakin nahi nuke noizko konpondu behar duten. 13an etorri ziren hura jasotzera eta astebetean itzuliko zidatela agindu zidaten. Ulertzen dut aldagaiekin arazoren bat izatea, baina hau gehiegizkoa da. Zehaztuko al didazue data ziur bat behingoz?
+
+Passage: O9
+Nire auzoko jatetxeen zerrenda ematen zeniezadake? Salburuan bizi naiz. Ohikoa ez den zerbait nahi nuke. Korear bat, adibidez. Baina nahiago nuke begetarianoa ez balitz.
+
+Passage: P0
+Nire emazteak hainbat hegaldi egin behar ditu datorren hilean. Aukera ekonomikoenen gainean aholkatu ahal didazu? Zenbait biltzar ditu, denak goizeko 5etatik 9etara, Parisen, Brujasen, Frankfurten, Erroman, eta Hanburgon, elkarren segidako egunetan. Esango dizkidazu arratsaldeko hegaldi egokienak eta ostatu hartzeko leku aproposak? Ez ditu hotel handi-hotzak gogoko.
+
+Passage: P1
+Biltzar handi baterako catering aukerak aztertzen ari gara. Janaria aretoan bertan kontsumitzeko moduan bidaltzea behar genuke. Ez dago janaria banatzeko beste lekurik. Uste dugu egokiena ogitarteko, hestebete, gazta, eta fruta sorta bat izango dela. Baduzue erakunde akademikoentzako eskaintzarik?
+
+Passage: P2
+Bidali anbulantzia bat Errekalde 12ra, lehenbailehen. Agure batek irrist egin eta hanka hautsi du, eta ezin da mugitu. Bertara Elizalde Kaletik besterik ezin da sartu. Alderdi Ederreko sarbidea itxita dago bide-lanak direla eta. Ospitalari jakinarazi diogu eta zain daude.
+
+Passage: P3
+Gabonetako eskarien departamenduarekin, mesedez. Hamar turroi, bost polboroi kaxa, eta hiru euskal pastel eskatu nahi nituzke. Mikel Elosuren etxerako da: Aroztegieta kalea 16. Abenduaren 23an iristea bermatu dezakezue? Eskertuko nizueke bidalketak nork egin duen esango ez bazeniote.
+
+Passage: P8
+Bart lorategiko atea ireki nuen katua ateratzeko. Hain gau-giro ederra zegoen, paseotxo bat eman eta haize freskoa hartu nahi izan nuen. Orduan, klik bat entzun nuen, atzean atea itxi zitzaidalarik. Kanpoan nintzen, sartu ezinik. Eta, dena ondo amaitzeko, atxilotu egin ninduten atea bortxaz irekitzen saiatzeagatik!
+
+Passage: P9
+Beti gertatu zait zaila tren-bidaia luzeetan lo egitea. Hasteko, inoiz ez naiz eroso egon eserlekuan. Beste bidaiariek goregi hitz egin ohi dute, edo, okerrago, zurrunga egin. Horrez gain, gurpilen etengabeko triki-traka. Eta lokartzea lortu arren, laster datorkit ikuskatzailea txartel eske.
+
+Passage: Q0
+Barka, ezingo dut asteburuan zuekin afaldu. Zuek ikusteko irrikaz nengoen, baina zoritxarrez ezbehartxo bat izan nuen etxetik irteteko prestatzen ari nintzela. Sotora jaitsi nintzen ardo botila bat hartzeko asmoz. Ez nuen argia piztu nahi izan eta ilunpetan estropezu egin nuen lauza solte batekin, eta orkatila hautsi.
+
+Passage: Q1
+Bada bidezidor bat muino hartatik nire etxeraino. Herriko batzuek diote muinoa sorginduta dagoela. Inork ez du hortik igaro nahi gauez. Jakina, nik ez dut horrelako zentzugabekeriarik sinesten. Gogoko dut hango bide bitxi hura.
