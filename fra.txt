@@ -1,0 +1,44 @@
+Passage: O1
+J’ai un problème avec mon adoucisseur d’eau. Le niveau d’eau est trop élevé et le trop-plein n’arrête pas de goutter. Est-ce que vous pourriez vous arranger pour envoyer un technicien mardi matin s’il vous plaît ? C’est le seul jour possible pour moi cette semaine. Je vous serai reconnaissant de me confirmer ce rendez-vous par écrit.
+
+Passage: O2
+Pouvez-vous me passer le service des réclamations s’il vous plaît ? L’arrivée d’eau à l’extérieur de chez moi n’a pas été réparée correctement et ma cave est inondée. Votre service des eaux a été particulièrement désagréable. Toutes leurs équipes de réparation sont apparemment occupées pendant les deux prochaines semaines. Je suis censé utiliser ma cave comme piscine en attendant ?
+
+Passage: O3
+Ici les pompiers municipaux. Nous essayons de localiser l’auteur d’un appel d’urgence qui a raccroché sans donner aucun détail. Il semble qu’il était sur le réseau local. Il nous a appelés sur notre ligne, au numéro 762 584. Merci d’essayer de le localiser immédiatement, car il semblait désespéré. 
+
+Passage: O4
+Merci de noter une réservation de taxi pour tôt demain matin. Monsieur André, rue des châtaigniers, veut être au terminal 2 de Bordeaux à 6 heures 15. Son avion ne décolle pas avant 7 heures 50, mais il doit régler un problème d’excédent de bagages. Notez ceci comme prioritaire et soyez à l’heure. Il vous attend à 5 heures trente précises.
+
+Passage: O6
+Je cherche à joindre Monsieur et Madame Georges à Toulouse. Ils ont déménagé du soixante-trois rue Pasteur pour s’installer ailleurs à Toulouse. Pouvez-vous me donner leur nouveau numéro s’il vous plaît ? Ils ont déménagé il y a environ 3 mois. Pour autant que je sache, ils ne sont pas sur liste rouge.
+
+Passage: O8
+Passez-moi le service après-vente s’il vous plaît. Ma télévision est en panne depuis presque 3 semaines, et j’ai besoin de savoir quand elle sera réparée. Vous êtes venu la chercher le 13 en promettant de la ramener dans la semaine. Je comprends que vous ayez des problèmes d’approvisionnement, mais là c’est trop. Pouvez-vous me donner une date ferme maintenant ? 
+
+Passage: O9
+Pouvez-vous me donner une liste des restaurants du quartier ? J’habite rue Lagny, à Nation. J’aimerais quelque chose d’un peu plus exotique que d’habitude, peut-être un restaurant polynésien par exemple. Je préférerais que ce ne soit pas végétarien.
+
+Passage: P0
+Ma femme a un planning de vols compliqué le mois prochain. Pourriez-vous me conseiller sur les options les plus économiques s’il vous plaît ? Elle a une série de réunions de 9 heures à 17 heures à Paris, Bruges, Francfort, Rome et Hambourg à la suite l'une de l'autre. Pourriez-vous me suggérer des vols en soirée qui conviennent et des hôtels appropriés ? Elle n’aime pas les grands hôtels anonymes.
+
+Passage: P1
+Nous nous renseignons sur les possibilités de restauration pour un grand meeting. Il faudrait que la nourriture soit livrée sur place de façon à ce qu'on puisse consommer tout de suite. Les locaux ne permettent pas de préparer la nourriture dans une pièce séparée. Nous pensions à un assortiment de sandwichs, viandes, fromages et fruits. Avez-vous des tarifs spéciaux pour les institutions académiques ? 
+
+Passage: P2
+Envoyez une ambulance au 16 boulevard Frot le plus vite possible. Un vieil homme a glissé sur la glace et s’est cassé la jambe. On ne peut pas le déplacer. L’accès au boulevard n’est possible que par la rue Mortier, l’avenue du Parc a été fermée pour travaux. L’hôpital la Timone a été prévenu et attend votre arrivée.  
+
+Passage: P3
+Le département des commandes de Noël s’il vous plaît. J’aimerais commander dix boîtes de biscuits de Noël, cinq boîtes de biscuits variés, et trois grandes bûches de Noël. L’adresse de livraison est chez le Dr. Barnado, 16 route de l'Isle d'Abeau. Pouvez-vous garantir la livraison le 23 décembre au plus tard ? Je vous serais reconnaissant de ne pas indiquer le nom de la personne ayant passé la commande.
+
+Passage: P8
+La nuit dernière j’ai ouvert la porte d’entrée pour laisser sortir le chat. La soirée était si belle que je suis descendu dans le jardin pour prendre un bol d’air frais. Puis j’ai entendu le clic de la porte qui se refermait derrière moi et j’ai compris que je m’étais enfermé dehors. Pour couronner le tout, j’ai été arrêté alors que j’essayais de forcer la porte !
+
+Passage: P9
+J’ai toujours trouvé difficile de dormir pendant les longs trajets en train en Europe. D’abord, je n’arrive jamais à me mettre à l’aise dans le siège. Ensuite, les autres passagers parlent généralement trop fort ou, pire encore, ils ronflent. En plus, il y a le cliquetis constant des roues sur la voie. Et quand j’arrive à m’assoupir, le contrôleur arrive et me réveille.
+
+Passage: Q0
+Désolé de ne pas être venu au dîner ce week-end. Je me réjouissais vraiment de te revoir. Malheureusement, j’ai eu un petit accident juste au moment de partir. C’est arrivé quand je suis descendu à la cave chercher une bouteille de vin. Je n’ai pas pris la peine d’allumer la lumière, j’ai trébuché sur une marche bancale dans le noir, et je me suis cassé la cheville.
+
+Passage: Q1
+Il y a un raccourci par cette colline jusqu’à chez moi. Des gens du coin disent qu’elle est hantée. Personne n’aime traverser ces champs la nuit tombée. Bien sûr, je ne crois pas à ces bêtises superstitieuses. C’est juste que j’aime la promenade pittoresque à travers la propriété.
