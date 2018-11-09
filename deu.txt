@@ -1,0 +1,44 @@
+Passage: O1
+Ich habe da ein problem mit meinem boiler das Uberdruckventil tropft ständig weil der wasserstand wohl zu hoch ist könnten sie mir bitte dienstag früh einen klempner schicken das ist leider der einzige tag in dieser woche an dem ich zeit habe ich wäre ihnen dankbar wenn sie mir den termin schriftlich bestätigen würden 
+
+Passage: O2
+verbinden sie mich bitte mit der beschwerdeabteilung die reparatur an der hauptwasserleitung vor meinem haus ist nicht ordentlich durchgeführt worden mein keller steht jetzt unter wasser die angestellten des wasserwerks waren überhaupt nicht hilfsbereit sie haben mich damit abgefertigt daß alle reparaturtrupps für die nächsten zwei wochen schon ausgebucht sind soll ich meinen keller in der zwischenzeit etwa als schwimmbad benutzen 
+
+Passage: O3
+hier ist die örtliche feuerwehrzentrale wir versuchen einen notruf zu orten der aufgehängt hat ohne genaue angaben zu machen es hörte sich nach einem ortsgespräch er wählte unsere direkte nummer sieben neun zwei fünf acht fünf wir müssen ihn schnellstens finden weil er sich völlig aufgelöst anhörte 
+
+Passage: O4
+reservieren sie mir bitte ein taxi für morgen früh herr jürgen schröder aus mühlheim muß um sechs uhr fünfzehn am düsseldorfer flughafen sein der flug geht um sieben uhr fünfzig aber er muß vorher noch zur gepäckabfertigung wir erwarten das taxi genau um fünf uhr dreißig ich verlasse mich darauf daß sie pünktlich sind 
+
+Passage: O6
+ich versuche herrn und frau jäger aus löhne zu erreichen sie sind von der töpfergasse neunundfünfzig in einen anderen teil von löhne gezogen könnten sie mir bitte ihre neue nummer geben sie sind vor ungefähr fünf monaten umgezogen so weit ich weiß wohnen sie noch im selben stadtteil 
+
+Passage: O8
+bitte verbinden sie mich mit der reparaturabteilung mein fernseher ist nun schon seit drei wochen bei ihnen und ich möchte wissen wann er endlich fertig ist sie haben ihn nämlich am zwölften juni abgeholt und versprochen daß er in einer woche wieder da sein wird ich kann ja verstehen daß sie viel zu tun haben aber das ist wirklich etwas übertrieben können sie mir jetzt bitte einen endgültigen termin geben 
+
+Passage: O9
+können sie mir sagen welche gaststätten bei mir in der nähe sind ich wohne in der goethestraße ich möchte mal etwas ganz neues ausprobieren vielleicht japanische küche aber bitte nicht ausschließlich vegetarisch 
+
+Passage: P0
+meine frau braucht für den nächsten monat gut aufeinander abgestimmte bahnverbindungen könnten sie mir bitte die jeweils günstigste möglichkeit heraussuchen sie muß im januar zu einer reihe von tagungen in rom brüssel frankfurt köln und mühlheim jeweils von neun bis siebzehn uhr würden sie bitte abendzüge und bequeme hotels reservieren sie mag allerdings keine großen unpersönlichen häuser 
+
+Passage: P1
+haben sie die möglichkeit ein essen für eine große gruppe auszurichten wir müssen es so angeliefert bekommen daß es sofort verzehrt werden kann es gibt nämlich keine möglichkeit das essen in einem separaten raum anzurichten wir denken da an belegte brote verschiedene fleischsorten käse und obst geben sie eigentlich rabatt für akademische einrichtungen 
+
+Passage: P2
+schicken sie so schnell wie möglich einen krankenwagen in die großgarage in der hopfengasse ein alter mann ist auf dem eis ausgerutscht hat sich das bein gebrochen und kann nicht bewegt werden denken sie an die sperrung der yachtstraße sie ist wegen straßenarbeiten gesperrt das städtische krankenhaus ist bereits informiert sie warten schon 
+
+Passage: P3
+geben sie mir bitte ihre weihnachtsabteilung ich brauche vierundzwanzig kisten weihnachtsgebäck fünf schachteln gemischtes gebäck und drei große stollen die anlieferungsadresse ist apfelweg dreiundvierzig in bielefeld können sie mir garantieren daß alles am dreiundzwanzigsten dezember ankommt ich wäre ihnen dankbar wenn sie mir eine bestätigung dieses auftrags schicken würden 
+
+Passage: P8
+letzte nacht habe ich die haustür geöffnet um die katze nach draußen zu lassen es war ein so schöner abend daß ich in den garten ging um etwas frische luft zu schöpfen plötzlich hörte ich wie tür hinter mir zufiel ich hatte mich selbst ausgesperrt und dann wurde ich auch noch verhaftet als ich versuchte die tür aufzubrechen 
+
+Passage: P9
+ich kann auf langen schiffsreisen einfach nicht schlafen dazu sind die sitze viel zu ungemütlich außerdem sprechen die anderen passagiere zu laut oder was noch schlimmer ist sie schnarchen dazu kommt das ewige stampfen der maschinen wenn ich trotzdem gerade dabei bin einzudösen kommt irgendeine durchsage und ich werde wieder wach 
+
+Passage: Q0
+es tut mir wirklich leid daß ich am wochenende nicht zum essen kommen konnte ich wollte dich so gern mal wieder sehen aber kurz bevor ich losfahren wollte hatte ich einen kleinen unfall als ich in meinen keller gegangen bin um eine flasche apfelwein zu holen habe ich vergessen das licht anzumachen im dunkeln bin ich dann über eine lose stufe gestolpert und habe mir den knöchel gebrochen 
+
+Passage: Q1
+von hier aus gibt es zu meinem haus auch eine abkürzung über den hügel die meisten leute erzählen daß es dort spukt im dunklen würde keiner von ihnen da lang gehen natürlich glaube ich nicht an so einen übernatürlichen blödsinn ich gehe aber trotzdem lieber den schönen weg um den hügel herum auch wenn es ein bißchen länger dauert
