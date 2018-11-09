@@ -1,0 +1,44 @@
+Passage: O1
+Tinc un problema amb el descalcificador. El nivell d'aigua és massa alt i l'aigua que sobra vessa contínuament. Poden enviar-me un tècnic el dimarts al matí, per favor? És l'únic dia que em va bé aquesta setmana. Els estaré agraït si em poden confirmar la cita per escrit.
+
+Passage: O2
+Si us plau, passi'm amb el departament de reclamacions. La reparació de la canonada principal al costat de casa no ha quedat bé, i s'ha inundat el meu soterrani. A més, el Departament de serveis no va ser d'allò més considerat, i tots els tècnics estan ocupats durant les properes dues setmanes. Se suposa que he de tenir el soterrani com una piscina fins llavors?
+
+Passage: O3
+Aquí el Servei Municipal d'Incendis. Estem intentant localitzar la persona que ha realitzat una trucada d'emergència sense donar la seva informació personal. Sembla ser que es troba a la xarxa local, s'ha connectat a la nostra línia amb número 93 0762 584. S'agrairà qualsevol esforç per localitzar-lo immediatament, ja que per la seva veu ha semblat que era molt urgent.
+
+Passage: O4
+Per favor, prenguin nota d'un encàrrec per un taxi de matinada. El senyor Suau, de l'Avinguda Argentina, vol ser a la terminal 2 de l'Aeroport del Prat a les 6:15 del matí. El seu vol no surt fins a les 7:50, però no vol tenir problemes amb l'excés d'equipatge. Si us plau, marqueu aquest encàrrec com a de màxima prioritat, i amb un compliment estricte de l'horari demanat. S'espera l'arribada del taxi a les 5:30 en punt.
+
+Passage: O6
+Estic provant de posar-me en contacte amb el senyor i la senyora Sastre, de Manacor. S'han traslladat a una altra zona de la ciutat. Em podria donar el seu nou telèfon, per favor? Es varen canviar de casa fa 3 mesos, aproximadament. A la guia telefònica encara apareixen amb les dades antigues.
+
+Passage: O8
+Puc parlar amb el departament de reclamacions? El meu televisor va deixar de funcionar fa tres setmanes, se'l van endur per fer la reparació, i m'agradaria saber quan estarà arreglat. La recollida va ser el dia 13, i em van prometre que el tornarien en una setmana. Em faig càrrec que tenen problemes de subministraments, però aquest retard em sembla excessiu. Em poden donar una data límit, ja?
+
+Passage: O9
+Em podria donar una llista de restaurants en aquesta zona? Visc al carrer Pau Casals, i estava interessat en alguna cosa més exòtica de l'habitual. Per exemple, un restaurant tailandès. Però preferiria que no fos un restaurant vegetarià. 
+
+Passage: P0
+La meva dona té una agenda de vols complicada, el proper mes. Em podria recomanar les combinacions més econòmiques? Té una sèrie de reunions de 9 del matí a 5 de la tarda a París, Bruges, Frankfurt, Roma i Hamburg, en dies consecutius. Pot mirar de trobar vols en horari de tarda, i l'allotjament corresponent a cada jornada? No li agraden els hotels massa grans. 
+
+Passage: P1
+Volem demanar informació per organitzar el càtering per una reunió amb molts participants. Seria convenient que el menjar fos entregat a punt per consumir, a la mateixa sala de reunions. En aquesta sala no hi ha cap espai separat per servir el menjar. Havíem pensat en uns entrepans, embotits i formatges, i fruita. Hi ha algun tipus de descompte per institucions acadèmiques?
+
+Passage: P2
+Envieu una ambulància al número setze del passatge de Sant Francesc, tan aviat com sigui possible. Un home major ha patinat, s’ha trencat una cama, i no és possible moure’l. L’únic camí per entrar al passatge és pel carrer de l’església, ja que l’avinguda del parc està tancada per obres. L’hospital Son Espases ja està avisat i esperen l’arribada del ferit. 
+
+Passage: P3
+Si us plau, voldria encarregar un lot de productes de nadal. M’agradaria que fos una cistella amb una dotzena de paquets de torró, cinc caixes de massapans i tres o quatre paquets de fruites confitades. L’adreça d’enviament és al carrer Joan Miralles, número 25. Ho podran entregar abans del dia 23 de desembre, sens falta? A més, no vull que consti el nom de qui ha fet l’encàrrec, ja que és una sorpresa. 
+
+Passage: P8
+Ahir vespre vaig obrir la porta perquè el gat sortís. Feia molt bona temperatura i vaig sortir al jardí a prendre una mica l’aire. Tot seguit, vaig sentir el soroll de la porta tancant-se darrere meu i em vaig donar compte que m’havia quedat tancat a fora de casa. Per acabar-ho d’adobar, la policia em va detenir mentre provava de forçar el pany per tornar a entrar!
+
+Passage: P9
+Sempre m’ha costat dormir durant els trajectes en tren. Per alguna raó, mai acabo de trobar-me còmode a la butaca, i a més, els altres passatgers acostumen a parlar fort o fins i tot a roncar. Per altra banda, hi ha el soroll permanent de les rodes del tren i les vies. Si així i tot aconsegueixo fer una becaina, passa el revisor i em desperta per demanar-me el bitllet.
+
+Passage: Q0
+Disculpes per no venir a sopar el cap de setmana. M’hagués agradat molt tornar-te a veure. Per desgràcia vaig tenir un petit accident just quan em preparava per venir. Va ser quan vaig baixar al celler a recollir una botella de vi: no vaig encendre el llum perquè pensava que no era necessari i, per això, em vaig entrebancar a les fosques amb un escaló que es mou, i amb la caiguda em vaig trencar el turmell. 
+
+Passage: Q1
+En aquell turó hi ha una drecera cap a casa meva. Alguns veïns diuen que el turó està embruixat, de fet, a ningú li fa gràcia passar per aquella zona quan s’ha fet fosc. És clar, jo no em crec aquestes supersticions, i de fet, m’agrada passar per aquella ruta ja que la trobo molt pintoresca.
