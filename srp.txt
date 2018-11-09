@@ -1,0 +1,44 @@
+Passage: O1
+Imam problem sa veš mašinom. Nivo vode je previsok, i ne prestaje da kaplje. Da li biste mogli da pošaljete tehničara u utorak ujutru? To je jedini dan ove nedelje kada sam slobodan. Bio bih vam zahvalan ako biste mi napismeno potvrdili dolazak.
+
+Passage: O2
+Molim vas, spojite me sa odeljenjem za žalbe. Nisu uspeli da mi poprave vodovodnu cev, pa je podrum poplavljen. U Vodovodu nisu imali nimalo razumevanja. Sve službe za popravke su im navodno zauzete tokom naredne dve nedelje. Da li do tada da se u podrumu kupam kao u bazenu?!
+
+Passage: O3
+Ovde Opštinska vatrogasna služba. Pokušavamo da lociramo osobu koja nam je uputila poziv na broj za slučaj opasnosti, ali nije ostavila lične podatke. Izgleda da je bio na lokalnoj mreži. Priključio se na naš broj sedam šest dva pet osam četiri. Bili bismo vam zahvalni ako biste odmah pokušali da ga pronađete, zvučao je uznemireno.
+
+Passage: O4
+Molim vas rezervišite mi taksi za rano ujutru. Gospodin Jovanović iz Simine ulice želi da bude na terminalu četiri Aerodroma Nikola Tesla najkasnije u šest i petnaest ujutru. Avion mu poleće tek u deset do osam ali mora da prijavi prekoračenje prtljaga. Budite tačni i neka vam ova vožnja bude prva na listi. Očekivaće taksi u tačno pola šest. 
+ 
+Passage: O6 
+Pokušavam da dobijem Gospodina i Gospođu Marković iz Beograda. Preselili su se iz Miloša Velikog pedeset i šest u drugi kraj Beograda. Možete li mi dati njihov novi broj, molim vas? Preselili su se pre otprilike tri meseca. Koliko znam, njihov kontakt bi trebalo da je u registru. 
+
+Passage: O8
+Molim vas, povežite me sa servisom. Televizor mi je pokvaren već skoro tri nedelje, i hoću da znam kada ćete ga popraviti. Odneli ste ga trinaestog i obećali da ćete ga vratiti u roku od nedelju dana. Jasno mi je da imate problema s nabavkom, ali ovo je previše. Možete li mi sada dati neki tačan datum?
+
+Passage: O9
+Možete li mi dati spisak restorana u kraju? Živim u ulici Vodovodskoj, broj trinaest. Želim nešto malo egzotičnije nego obično. Možda neki polinežanski restoran, na primer. Voleo bih da ne bude vegeterijanski. 
+
+Passage: P0
+Moja žena ima komplikovan raspored letenja sledećeg meseca. Da li biste mogli da me posavetujete u vezi sa najpovoljnijim rasporedom? Ima sastanke od devet ujutru do pet popodne, u Parizu, Brugesu, Frankfurtu, Rimu i Hamburgu, dan za danom. Da li biste mogli da mi predložite večernje letove koji bi joj odgovarali i odgovarajući smeštaj? Ne do pa da ju joj se ve li ki, o bični hoteli. 
+
+Passage: P1
+Skupljamo informacije o mogućoj organizaciji keteringa za jedan veliki skup. Morali biste da isporučite hranu tako da može odmah da se služi. Nemamo posebnu prostoriju gde bi hrana mogla da se aranžira i čuva. Imali smo na umu selekciju sendviča, suvog mesa, sireva i voća. Imate li specijalne cene za akademske ustanove?
+
+Passage: P2
+Pošaljite hitnu pomoć u Miloševu šestnaest što pre. Jedan stariji čovek se okliznuo na led i polomio nogu, i nepokretan je. Miloševoj možete da pristupite samo iz Ljubine. Njegoševa je zatvorena zbog radova. Obavestili smo Glavnu bolnicu, tako da očekuju vaš dolazak. 
+
+Passage: P3
+Molim vas odeljenje za novogodišnje porudžbine, želim da poručim deset kutija novogodišnjih kolača, pet kutija mešanog keksa i tri velike novogodišnje torte. Mesto isporuke je kuća doktora Tome, Blagoja Parovića šesnaest. Možete li da garantujete isporuku do dvadeset i trećeg decembra? Bio bih vam zahvalan ako biste držali u tajnosti ime poručioca. 
+
+Passage: P8
+Sinoć sam otvorio vrata da pustim mačku napolje. Bilo je tako lepo veče, da sam izašao u baštu da udahnem svež vaduh. Tada sam začuo “klik” i video kako se vrata zatvaraju za mnom. Shvatio sam da sam ostao van kuće, a vrata su se zaključala. Ukratko, uhapsili su me dok sam pokušavao da otvorim vrata na silu!
+
+Passage: P9
+Oduvek mi je bilo teško da spavam tokom dugih putovanja vozom po Srbiji. Prvo, nikad ne mogu da se udobno smestim na sedištu. Onda ostali putnici najčešće pričaju jako glasno, ili, jos gore, hrču. Povrh svega, neprestano se čuje ono klopotanje točkova i šina. A kad uspem da zadremam, pojavi se kontrolor karata i probudi me. 
+
+Passage: Q0
+Izvini što nisam došao na večeru za vikend. Zaista sam se radovao što ćemo se opet videti. Nažalost, imao sam malu nezgodu baš kad sam se spremao da krenem. Sišao sam u podrum da uzmem flašu vina, i pošto me je mrzelo da upalim svetlo, u mraku se sapletem na klimav stepenik i polomim članak. 
+
+Passage: Q1
+Ima jedna prečica preko tog brda do moje kuće. Neki lokalci kažu da na brdu ima duhova. Niko ne voli da prelazi preko tih polja kad padne mrak. Naravno, uopšte ne verujem u ta glupa sujeverja. Jednostavno uživam u šetnji slikovitim pejzažem preko imanja. 
