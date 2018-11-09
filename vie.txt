@@ -1,0 +1,44 @@
+Passage: O1
+Máy lọc nước nhà tôi bị hỏng; nước cứ tràn ra bên ngoài. Anh làm ơn cho thợ đến sửa giúp tôi vào sáng thứ ba tới được không? Tôi chỉ rỗi vào mỗi hôm đó thôi. Nếu anh đồng ý; thì hãy gửi giấy báo lại cho tôi.
+
+Passage: O2
+Xin vui lòng chuyển máy cho tôi gặp bộ phận giải đáp thắc mắc khách hàng. Các anh thợ đã đến sửa đường ống nước trước cửa nhà tôi; nhưng chưa xong; nước vẫn chảy làm ngập tầng hầm nhà tôi. Tôi đã gọi điện đến thông báo nhưng người ta trả lời tôi là tất cả các đội thợ sửa ống nước đều bận trong hai tuần tới. Tôi thực sự không biết phải làm gì nữa. Nếu cứ tình hình này thì tầng hầm nhà tôi sẽ trở thành bể bơi.
+
+Passage: O3
+Bộ phận cứu hoả xin thông báo: chúng tôi đang cố gắng xác định một cuộc gọi khẩn cấp từ một người không rõ danh tính. Cô ta gọi đến từ số máy tám bảy sáu hai năm tám bốn. Cần phải tìm ngay cô gái này: cô ta có vẻ đang rất tuyệt vọng.
+
+Passage: O4
+Tôi muốn đặt trước một taxi đón anh Lê Anh Tuấn vào sáng sớm ngày mai; tại địa chỉ ba mươi ba Hàn Thuyên. Anh Tuấn phải có mặt tại sân bay Nội bài trước sáu giờ mười lăm phút. Máy bay sẽ cất cánh lúc bảy giờ năm mươi phút; nhưng anh ấy cần có thời gian để đăng ký hành lý quá cân. Làm ơn nhắn taxi phải đến đúng giờ. Anh ấy sẽ đứng đợi ở dưới nhà lúc năm giờ ba mươi phút.
+
+Passage: O6
+Tôi muốn tìm số điện thoại của gia đình ông; bà Nguyễn Ðăng ở Hà Nội. Trước đây; họ sống ở số nhà sáu mươi; phố Bà Triệu. Họ đã chuyển nhà và tôi không có địa chỉ mới của họ. Chị có thể vui lòng cho tôi số điện thoại mới của họ không? Chắc họ đã chuyển nhà được ba tháng rồi. Tôi đã tìm trong danh bạ điện thoại nhưng không thấy số điện thoại của họ.
+
+Passage: O8
+Tôi xin gặp bộ phận bảo hành. Ðã ba tuần nay các anh mang vô tuyến của tôi đi sửa. Tôi muốn biết bao giờ thì các anh sửa xong. Các anh đã đến lấy vô tuyến từ ngày mười ba và hứa sẽ mang trả trong tuần. Tôi biết là các anh gặp khó khăn khi tìm liên kiện thay thế; nhưng đã quá thời hạn rất lâu rồi. Tôi muốn các anh cho tôi một ngày hẹn chính xác.
+
+Passage: O9
+Chị có thể cho tôi xin danh sách các nhà hàng gần nơi tôi sống được không ạ? Tôi ở phường Cống vị; đường Ðội Cấn. Tôi muốn tìm một vài món ăn có vị cay; ví dụ như các món ăn của Thái. Tôi không thích các nhà hàng ăn chay.
+
+Passage: P0
+Tháng tới vợ tôi sẽ đi dự hội thảo ở rất nhiều nước. Các cuộc hội thảo thường bắt đầu từ chín giờ sáng đến mười bảy giờ; kéo dài trong bốn ngày liên tiếp và được tổ chức ở các địa điểm khác nhau: đầu tiên ở Hà Nội; tiếp đó đến Ðà Nẵng; Nha Trang và cuối cùng là thành phố Hồ Chí Minh. Chị có thể tư vấn cho vợ tôi nên chọn khách sạn nào; chuyến bay tối nào được không? Cô ấy không thích các khách sạn lớn; cô ấy thích các khách sạn nhỏ; yên tĩnh.
+
+Passage: P1
+Chúng tôi đang tìm thông tin về tổ chức tiệc cho Hội nghị. Chúng tôi muốn tổ chức tập chung tại một địa điểm. Vì không đặt được phòng to để bày các bàn tiệc; nên có lẽ chúng tôi sẽ tổ chức tiệc đứng với bánh mỳ; thịt nguội; pho mát và hoa quả. Chị có bảng giá đặc biệt dành cho các cơ quan không? Trường Ðại học có được hưởng giá đặc biệt không?
+
+Passage: P2
+Xin điều khẩn cấp một xe cứu thương đến số nhà 16; ngõ Phan Chu Trinh. Có một ông già bị trượt chân và ngã bên lề đường; ông ấy không thể cử động được chân. Có thể ông ấy đã bị gẫy chân. Các anh nên đi đường Trần Hưng Ðạo; đường Phan Chu Trinh đang bị cấm. Chúng tôi đã báo cho phòng cấp cứu bệnh viện Bạch Mai; nhân viên trực cấp cứu đang chờ ở đó.
+
+Passage: P3
+Có phải tiệm bánh Hồng Ngọc đấy không ạ? Tôi là Chi đây. Tôi muốn nhờ nhà hàng chuyển quà tết trung thu cho bạn tôi. Tôi muốn chuyển một cân hoa quả sấy khô; năm hộp bánh trung thu và ba hộp bánh mặn đến nhà Bà Bác sỹ Mai; ở số nhà hai trăm bốn nhăm; đường Hoàng Hoa Thám; tối ngày ba mươi tháng chín. Tôi muốn gây bất ngờ cho Bà Mai vì thế anh đừng cho bà ấy biết là tôi chuyển món quà này.
+
+Passage: P8
+Tối qua; tôi đã mở cửa cho con mèo ra ngoài. Vì trời rất đẹp; không khí thoáng đãng nên tôi quyết định đi dạo một chút. Mới chỉ bước được vài bước tôi nghe thấy tiếng cửa ra vào đóng sập lại đằng sau. Tôi nhận ra là mình đã bị nhốt ở ngoài. Ðiều làm tôi bực mình là tôi đã bị bắt giữ khi đang cố gắng mở cửa để vào nhà!
+
+Passage: P9
+Tôi không tài nào ngủ được mỗi khi đi tàu. Ðầu tiên là tôi không thể tìm thấy một chỗ ngồi thoải mái; tiếp đó là vì những người bên cạnh: người thì nói quá to; người thì ngáy; hơn nữa tàu chạy quá ầm. Ðền lúc tôi chợp được mắt thì người soát vé xuất hiện và kiểm tra vé!
+
+Passage: Q0
+Tôi rất tiếc là không thể đến ăn tối tại nhà anh hôm chủ nhật tuần trước được. Tôi đã rất vui khi gặp lại anh. Hôm đấy; tôi đã gặp một tai nạn nhỏ khi đi xuống hầm rượu để lấy rượu. Vì không bật đèn nên tôi đã bước hụt và bị trẹo chân.
+
+Passage: Q1
+Ðể đến nhà tôi; anh có thể đi đường tắt qua quả đồi. Người làng tôi không thích đi đường đấy vì họ cho rằng quả đồi có ma; nhất là vào ban đêm. Tôi không tin vào những lời đồn đại đó. Tôi lại rất thích đi đường đó vì nó rất thơ mộng.
